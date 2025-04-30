@@ -4506,7 +4506,7 @@ doc = ["jupytext", "matplotlib (>2)", "myst-nb", "numpydoc", "pooch", "pydata-sp
 test = ["asv", "gmpy2", "mpmath", "pooch", "pytest", "pytest-cov", "pytest-timeout", "pytest-xdist", "scikit-umfpack", "threadpoolctl"]
 
 [[package]]
-name = "seaborn"
+
 version = "0.12.2"
 description = "Statistical data visualization"
 optional = false
